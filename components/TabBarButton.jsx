@@ -25,7 +25,7 @@ const TabBarButton = (props) => {
         const top = interpolate(
             scale.value,
             [0, 1],
-            [0, 7.7]
+            [0, 8.1]
         );
         return {
             // style
