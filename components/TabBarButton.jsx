@@ -1,4 +1,4 @@
-// TabBarButton
+// TabBarButtonFile
 import { View, Text, Pressable, StyleSheet } from 'react-native'
 import React, { useEffect } from 'react'
 import {icons} from '../assets/icons';
