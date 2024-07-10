@@ -4,11 +4,11 @@ import React from 'react'
 import ColorList from '../components/ColorList'
 
 const Create = () => {
-  return (
-    <View>
-      <ColorList color="#059669" />
-    </View>
-  )
+    return (
+        <View>
+            <ColorList color="#059669" />
+        </View>
+    )
 }
 
 export default Create
